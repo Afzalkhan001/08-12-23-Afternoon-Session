@@ -1,13 +1,13 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Helvetica', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     overflow: hidden;
 }
 
 .banner {
-    background-color: #333;
-    color: #fff;
+    background-color: #33333300;
+    color: #080808;
     text-align: center;
     padding: 10px 0;
 }
@@ -22,7 +22,7 @@ body {
     margin: 20px auto;
     padding: 20px;
     text-align: justify;
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgba(255, 253, 253, 0.63);
     border-radius: 10px;
 }
 
@@ -79,7 +79,7 @@ label {
 input {
     margin-bottom: 10px;
     padding: 8px;
-    border: 1px solid #ccc;
+    border: 1px solid #cccccc;
     border-radius: 5px;
 }
 
@@ -92,3 +92,4 @@ input {
     object-fit: cover;
     z-index: -1;
 }
+
